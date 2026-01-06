@@ -1,0 +1,9 @@
+__pycache__/
+.python-pycaches/
+*.py[cod]
+*.pyd
+.DS_Store
+.env
+.venv/
+venv/
+*.checkpoint.*
